@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     libqti-iopd-client_system \
     libqti-util_system \
     libqti_performance \
+    libqti-at \
     libqti_workloadclassifiermodel \
     QPerformance \
     com.qualcomm.qti.Performance.xml \
